@@ -1,0 +1,30 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Simple Express App",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "glob": "^11.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loginov10/express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loginov10/express/issues"
+  },
+  "homepage": "https://github.com/Loginov10/express#readme",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2",
+    "supertest": "^7.0.0"
+  }
+}
+
